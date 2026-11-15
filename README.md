@@ -140,7 +140,7 @@ When an invalid calculation is detected, the display shows `Error` instead of an
 1. Clone the repository:
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/Ayoub10150/qt-quick-calculator/
    ```
 
 2. Open the project using **Qt Creator**.
