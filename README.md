@@ -4,6 +4,8 @@ A calculator application built with **C++ and Qt/QML**, following a modular arch
 
 The project aims to provide a clean, responsive, and reliable calculator experience while maintaining a clear separation of responsibilities between its main components.
 
+![App Screenshot](images/qt-quick-calculator_screenshot.png)
+
 ## ✨ Features
 
 - **Basic arithmetic operations:** Addition (+), subtraction (-), multiplication (×), and division (÷).
